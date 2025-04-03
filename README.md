@@ -2,7 +2,7 @@
 coding challenge di Lascaux
 
 ### frontend startup
-## execute the following angular command
+## execute the following angular command in front-end/cinema-app folder
 
 ng serve
 
@@ -10,8 +10,7 @@ ng serve
 http://localhost:4200
 
 ### backend startup
-# go to Backend/Cinema folder
-## execute the following maven command 
+## execute the following maven command in back-end/Cinema folder
 
 mvn spring-boot:run
 
