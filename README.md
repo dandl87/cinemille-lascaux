@@ -1,13 +1,6 @@
-# cinemille-lascaux
+# cinemille-lascaux BACKEND
 coding challenge di Lascaux
 
-### frontend startup
-## execute the following angular command in front-end/cinema-app folder
-
-ng serve
-
-## reached at 
-http://localhost:4200
 
 #### backend startup
 ### execute the following maven command in back-end/Cinema folder
