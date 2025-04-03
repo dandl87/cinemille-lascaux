@@ -9,8 +9,8 @@ ng serve
 ## reached at 
 http://localhost:4200
 
-### backend startup
-## execute the following maven command in back-end/Cinema folder
+#### backend startup
+### execute the following maven command in back-end/Cinema folder
 
 mvn spring-boot:run
 
